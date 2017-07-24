@@ -1,0 +1,19 @@
+{
+  "name": "purple-lib-q",
+  "version": "2.0.0",
+  "description": "some checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wix/purple-lib-q.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wix/purple-lib-q/issues"
+  },
+  "homepage": "https://github.com/wix/purple-lib-q#readme"
+}
